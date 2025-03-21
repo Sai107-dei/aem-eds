@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p8661-e624335.adobeaemcloud.com/bin/franklin.delivery/Sai107-dei/aem-eds/edit/main"
+    url: "https://author-p8661-e624335.adobeaemcloud.com/bin/franklin.delivery/Sai107-dei/aem-eds/edit/newmain"
     type: "markup"
     suffix: ".html"
